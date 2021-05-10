@@ -76,10 +76,14 @@ img {
 /* inizio esercizio */
 @media  screen and (max-width:575px) {
   #why{
+    width: 992px;
+    height: 100%;
     background-color: grey;
   }
 @media screen and (max-width:575px) {
   #lezioni{
+    width: 992px;
+    height: 100%;
     background-color: grey;
   }
   
@@ -87,7 +91,7 @@ img {
     
     
   
-}
+
   
 
 @media screen and (max-width:575px) {
